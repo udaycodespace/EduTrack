@@ -47,6 +47,13 @@ Test endpoints with Postman:
 * **DELETE** `/deletebatchentry/{id}`
 * **GET** `/health` for service status
 
+## API Documentation
+
+This project uses Swagger (OpenAPI) for API documentation.
+
+After running the application, access Swagger UI at:
+http://localhost:8080/swagger-ui.html
+
 ## Configuration
 
 Set your MongoDB connection details in `application.properties`:
