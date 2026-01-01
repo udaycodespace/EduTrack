@@ -70,10 +70,6 @@ spring.data.mongodb.uri=mongodb://localhost:27017/yourdb
 * Maven
 * Postman (for testing)
 
-## API
-
-Document endpoints, expected request bodies, and responses.
-
 ## Testing
 
 Postman used for functional testing. Includes CRUD verification and simple health checks.
