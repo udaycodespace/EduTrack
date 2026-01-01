@@ -45,7 +45,7 @@ Test endpoints with Postman:
 * **GET** `/getbatchentries`
 * **PUT** `/updatebatchentry/{id}`
 * **DELETE** `/deletebatchentry/{id}`
-* **GET** `/health` for service status
+* **GET** `/health` for service status (yet to be implemented, was too lazy to do it)
 
 ## API Documentation
 
