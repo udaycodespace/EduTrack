@@ -84,3 +84,7 @@ Postman used for functional testing. Includes CRUD verification and simple healt
 ## Author
 
 Aditya Chavan
+
+## Contributors
+
+[SOMAPURAM UDAY](https://github.com/udaycodespace) - Minimal best looking functional UI.
