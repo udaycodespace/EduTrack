@@ -37,6 +37,13 @@ Client/Postman → Controller → Service → Repository → MongoDB → Respons
    mvn spring-boot:run
    ```
 
+## Frontend Setup
+
+1. Navigate to the frontend/ folder.
+2. Open index.html
+(Recommended: Use VS Code Live Server)
+3. Ensure the backend is running.
+
 ## Usage
 
 Test endpoints with Postman:
